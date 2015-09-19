@@ -1,0 +1,26 @@
+html { 
+  background: url(http://www.wallpaperup.com/uploads/wallpapers/2015/04/25/670700/8da23158bf6ec6c464df11d9c7c6c14a.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif;
+}
+
+.countdown-wrapper {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.countdown-wrapper h1 {
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 10px;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	font-size: 2em;
+}
