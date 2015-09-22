@@ -1,4 +1,4 @@
-var releaseDate = new Date(2015, 11, 17, 0, 0, 0)
+var releaseDate = new Date(2015, 10, 17, 0, 0, 0)
 
 // give time to release in milliseconds
 function getCountdown(releaseDate) {
